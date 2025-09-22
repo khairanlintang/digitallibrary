@@ -6,7 +6,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 
 ## Koleksi
 
-1. [Mother's Orchids](ebook/Mothers's Orchids.pdf) - Debby Lukito Goeyardi (2024)
+1. [Mother's Orchids](ebook/Mother's Orchids.pdf) - Debby Lukito Goeyardi (2024)
 2. [Biji Merah Luna](ebook/Biji Merah Luna.pdf) - Ammy Kudo (2022)
 3. [Lima Pandawa Penglipuran](ebook/Lima Pandawa Penglipuran.pdf) - Izzah Annisa dkk (2023)
 4. [Later](ebook/Later.pdf) - Fransisca Emilia dkk (2024)
