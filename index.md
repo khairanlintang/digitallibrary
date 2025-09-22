@@ -18,4 +18,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 10. [Matematika Kelas XII Buku Guru](ebook/Matematika Kelas XII Buku Guru.pdf) - Abdur Rahman As’ari dkk (2018)
 11. [Gambar Lucu Mika](ebook/Gambar Lucu Mika.pdf) - Tyas Widjati (2023)
 
+<p><a href="webti/halaman1.html">Halaman 1</a>
+
 
